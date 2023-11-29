@@ -1,4 +1,4 @@
---Purpose: Explore the dataset and view different types on insights
+--Purpose: Explore the dataset and view different types of insights
 --Data was last updated in April 2021
 --Source: https://www.kaggle.com/datasets/ashishgup/netflix-rotten-tomatoes-metacritic-imdb?resource=download
 ------------------------------------------------------------------------------------
